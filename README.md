@@ -36,14 +36,45 @@ A modern Flutter application designed to help manage traditional Egyptian coffee
 - **Internationalization**: Easy Localization (for future RTL support)
 
 ## 📱 Screenshots
-'''
-![photo_2025-12-24_20-25-06](https://github.com/user-attachments/assets/3bb061f7-e6cf-48db-806a-68ab4c5d029b)
-![photo_2025-12-24_20-25-10](https://github.com/user-attachments/assets/f65512c7-3099-422c-ad5f-c27ab52aaa82)
-![photo_2025-12-24_20-25-18](https://github.com/user-attachments/assets/dc0b333c-e4df-45af-ae27-a0bfca80d567)
-![photo_2025-12-24_20-25-15](https://github.com/user-attachments/assets/a8f84e37-7d30-4282-880a-2deb1cad2a6d)
-![photo_2025-12-24_20-25-16](https://github.com/user-attachments/assets/62d22928-1c03-4914-b44d-1fe38488d639)
-![photo_2025-12-24_20-25-20](https://github.com/user-attachments/assets/a4b468d3-d799-4666-8289-ad0cf7013daa)
-'''
+
+<table>
+  <!-- First Row -->
+  <tr>
+    <td align="center">
+      <img src="https://github.com/user-attachments/assets/3bb061f7-e6cf-48db-806a-68ab4c5d029b" width="200"/>
+      <br/>
+      <em>Home Screen</em>
+    </td>
+    <td align="center">
+      <img src="https://github.com/user-attachments/assets/f65512c7-3099-422c-ad5f-c27ab52aaa82" width="200"/>
+      <br/>
+      <em>Add Order</em>
+    </td>
+    <td align="center">
+      <img src="https://github.com/user-attachments/assets/dc0b333c-e4df-45af-ae27-a0bfca80d567" width="200"/>
+      <br/>
+      <em>Order List</em>
+    </td>
+  </tr>
+  <!-- Second Row -->
+  <tr>
+    <td align="center">
+      <img src="https://github.com/user-attachments/assets/a8f84e37-7d30-4282-880a-2deb1cad2a6d" width="200"/>
+      <br/>
+      <em>Order Details</em>
+    </td>
+    <td align="center">
+      <img src="https://github.com/user-attachments/assets/62d22928-1c03-4914-b44d-1fe38488d639" width="200"/>
+      <br/>
+      <em>Loading State</em>
+    </td>
+    <td align="center">
+      <img src="https://github.com/user-attachments/assets/a4b468d3-d799-4666-8289-ad0cf7013daa" width="200"/>
+      <br/>
+      <em>Success State</em>
+    </td>
+  </tr>
+</table>
 ## 🚀 Getting Started
 
 ### Prerequisites
