@@ -36,9 +36,14 @@ A modern Flutter application designed to help manage traditional Egyptian coffee
 - **Internationalization**: Easy Localization (for future RTL support)
 
 ## 📱 Screenshots
-
-(Add screenshots of your app here)
-
+'''
+![photo_2025-12-24_20-25-06](https://github.com/user-attachments/assets/3bb061f7-e6cf-48db-806a-68ab4c5d029b)
+![photo_2025-12-24_20-25-10](https://github.com/user-attachments/assets/f65512c7-3099-422c-ad5f-c27ab52aaa82)
+![photo_2025-12-24_20-25-18](https://github.com/user-attachments/assets/dc0b333c-e4df-45af-ae27-a0bfca80d567)
+![photo_2025-12-24_20-25-15](https://github.com/user-attachments/assets/a8f84e37-7d30-4282-880a-2deb1cad2a6d)
+![photo_2025-12-24_20-25-16](https://github.com/user-attachments/assets/62d22928-1c03-4914-b44d-1fe38488d639)
+![photo_2025-12-24_20-25-20](https://github.com/user-attachments/assets/a4b468d3-d799-4666-8289-ad0cf7013daa)
+'''
 ## 🚀 Getting Started
 
 ### Prerequisites
