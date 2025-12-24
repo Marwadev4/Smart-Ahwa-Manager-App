@@ -66,12 +66,12 @@ A modern Flutter application designed to help manage traditional Egyptian coffee
     <td align="center">
       <img src="https://github.com/user-attachments/assets/62d22928-1c03-4914-b44d-1fe38488d639" width="200"/>
       <br/>
-      <em>Loading State</em>
+      <em>Delete Order</em>
     </td>
     <td align="center">
       <img src="https://github.com/user-attachments/assets/a4b468d3-d799-4666-8289-ad0cf7013daa" width="200"/>
       <br/>
-      <em>Success State</em>
+      <em>Orders</em>
     </td>
   </tr>
 </table>
