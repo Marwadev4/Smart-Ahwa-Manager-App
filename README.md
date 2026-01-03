@@ -35,6 +35,9 @@ A modern Flutter application designed to help manage traditional Egyptian coffee
 - **Dependency Injection**: get_it
 - **Internationalization**: Easy Localization (for future RTL support)
 
+## 📱 Demo
+[Linkedin](https://www.linkedin.com/posts/marwa-mohammed-jassim97_smart-ahwa-manager-app-%D8%B9%D9%86%D8%AF%D9%85%D8%A7-%D9%8A%D8%AC%D8%AA%D9%85%D8%B9-activity-7409653690967683072-ICVx?utm_source=share&utm_medium=member_desktop&rcm=ACoAADr0VikBV52_20aZ1CX8oHEZg-__ya8fOvI)
+
 ## 📱 Screenshots
 
 <table>
